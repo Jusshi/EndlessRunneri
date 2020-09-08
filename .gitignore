@@ -67,7 +67,7 @@ Build/*/**
 EndlessRunneri/Saved/*
 
 # Compiled source files for the engine to use
-Intermediate/*
+EndlessRunneri/Intermediate/*
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
